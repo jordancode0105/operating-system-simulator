@@ -1,0 +1,45 @@
+# Java build output
+*.class
+build/
+out/
+bin/
+target/
+dist/
+.gradle/
+
+# IDE configuration
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+.factorypath
+.apt_generated/
+.springBeans
+.sts4-cache/
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# OS and archive metadata
+.DS_Store
+._*
+__MACOSX/
+Thumbs.db
+Desktop.ini
+
+# Temporary and generated runtime files
+*.log
+*.tmp
+*.temp
+*.swp
+*~
+hs_err_pid*
+replay_pid*
+swap.bin
+simple.dat
+shared.dat
